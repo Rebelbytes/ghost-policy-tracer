@@ -27,16 +27,16 @@ Ghost Policy Tracer is a Generative AI-powered assistant that helps families rec
 
 ## 📸 Screenshots
 
-### 🧾 Step 1: Describe Case
+### Step 1:Home page
 ![Step 1](assets/Picture1.png)
 
-### 🤖 Step 2: Policy Profile & Likelihood
+###  Step 2: Describe Case
 ![Step 2](assets/Picture2.png)
 
-### ✉️ Step 3: Email Drafter
+###  Step 3: Policy Profile & Likelihood Email Drafter
 ![Step 3](assets/Picture3.png)
 
-### 📊 Visual Likelihood Score
+### Step 4: Email Drafter
 ![Likelihood](assets/Picture4.png)
 
 ---
