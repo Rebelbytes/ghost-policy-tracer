@@ -1,6 +1,6 @@
 # ghost-policy-tracer
 
-# 🧠 Ghost Policy Tracer – GenAI Assistant for Lost Insurance Recovery
+#  Ghost Policy Tracer – GenAI Assistant for Lost Insurance Recovery
 
 Ghost Policy Tracer is a Generative AI-powered assistant that helps families recover lost or unclaimed life insurance policies of deceased loved ones. It simplifies the claim process using intelligent case analysis, clarifying Q&A, and auto-generated formal communication to insurers.
 
